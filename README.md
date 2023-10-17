@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @savi3003
 - 👀 I’m interested in learning and working on projects in Javascript or Python
-- 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on a Javascript project
 - 📫 How to reach me : savritikas@gmail.com
 
